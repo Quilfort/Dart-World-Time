@@ -1,2 +1,2 @@
 # Dart-World-Time
-Create a World Time app with Dart
+Create an Android World Time app with Dart and Android Studio
